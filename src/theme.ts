@@ -15,9 +15,9 @@ const theme = createTheme({
       light: "#FFE8F4", // iranzamin-pink/50
       main: "#E32B89", // iranzamin-pink/500
       //   dark: "#002884",
-      //   contrastText: "#fff",
-      //   contrastText: "#1F2937", // gray/800
-      contrastText: "red",
+      contrastText: "#fff",
+      // contrastText: "#1F2937", // gray/800
+      // contrastText: "red",
     },
     // secondary: {
     //   light: "#ff7961",
