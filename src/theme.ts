@@ -25,6 +25,10 @@ const theme = createTheme({
     //   dark: "#ba000d",
     //   contrastText: "#000",
     // },
+    background: {
+      paper: "#FFFFFF",
+      default: "#F9FAFB",
+    },
   },
 });
 
